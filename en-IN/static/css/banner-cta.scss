@@ -1,0 +1,119 @@
+@import "../../scss/custom";
+
+.delicious-section {
+  height: 660px;
+  overflow: hidden;
+
+  @include media-breakpoint-down(xl) {
+    height: 500px;
+  }
+
+  @include media-breakpoint-down(lg) {
+    height: 460px;
+  }
+
+  @include media-breakpoint-down(sm) {
+    height: 360px;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  h2 {
+    color: white;
+    font-size: 100px;
+    margin: 0;
+    width: 99%;
+
+    .darkgreen {
+      color: $darkgreen;
+    }
+
+    @include media-breakpoint-down(xl) {
+      font-size: 75px;
+    }
+
+    @include media-breakpoint-down(lg) {}
+
+    @include media-breakpoint-down(md) {
+      font-size: 60px;
+    }
+
+    @include media-breakpoint-down(sm) {
+      font-size: 44px;
+      line-height: 44px;
+    }
+  }
+
+  button {
+    background: $darkgreen;
+    font-family: "Conv_Trebuchet MS";
+    width: 260px;
+    height: 60px;
+    top: 0px;
+
+    @include media-breakpoint-down(md) {
+      width: 200px;
+      height: 40px;
+    }
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .delicious-learn-more {
+    margin-top: 20px;
+  }
+}
+
+.we-look {
+  height: 800px;
+
+  @include media-breakpoint-down(xl) {
+    height: 600px;
+  }
+
+  @include media-breakpoint-down(sm) {
+    height: 400px;
+  }
+
+  h2 {
+    color: white;
+    font-size: 70px;
+    margin: 0;
+    font-family: "Sequel-Regular";
+
+    @include media-breakpoint-down(xl) {
+      font-size: 50px;
+    }
+
+    @include media-breakpoint-down(sm) {
+      font-size: 28px;
+    }
+  }
+
+  span {
+    font-size: 70px;
+    color: $green;
+
+    @include media-breakpoint-down(xl) {
+      font-size: 50px;
+    }
+
+    @include media-breakpoint-down(sm) {
+      font-size: 28px;
+    }
+  }
+
+  img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+}
