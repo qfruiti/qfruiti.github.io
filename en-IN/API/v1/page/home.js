@@ -72,7 +72,7 @@
 				"productUrl": "/en-IN/product"
 			}, {
 				"productTitle": "<h3 class='green-text'>QFRUITI<span class='number'>™</span> KIWI</h3>",
-				"tagline": "<p>Green high quality Kiwi .</p>",
+				"tagline": "<p>Green high quality Kiwi.</p>",
 				"images": {
 					"image_video_title": "zespri-green-product",
 					"imageUrl": "./images/product/homepage-product-green-min.png",
