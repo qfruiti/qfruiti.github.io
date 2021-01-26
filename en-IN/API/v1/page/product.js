@@ -556,7 +556,7 @@
 		"WelookafterSection": {
 			"sectionTitle": "We look after Section",
 			"sectionCssClass": "SectionClass",
-			"visible": true,
+			"visible": false,
 			"slides": [{
 				"title": "Blog",
 				"elementIdentifier": "slide1",
