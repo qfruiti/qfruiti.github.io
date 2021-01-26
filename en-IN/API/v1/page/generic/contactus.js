@@ -32,7 +32,7 @@
 				},
 				"submitMessage": "Thank You!",
 				"mailLabel": "<span class=lightgreenBackground>REACH US BY MAIL</span>",
-				"mailDetails": "<span class=greenText><b>Qfruiti International (Iran) Pvt. Ltd.</b></span><br>Mazandaran Province, Katalom, Ramsar Coastal Bypass Fwy, Iran <b>Consumer Enquiries: <a href='mailto:info@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>info@qfruiti.com</span></a><br>Business Enquiries: <a href='mailto:business@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>business@qfruiti.com</span></a></b>",
+				"mailDetails": "<span class=greenText><b>Qfruiti International (Iran) Pvt. Ltd.</b></span><br>Mazandaran Province, Katalom, Ramsar Coastal Bypass Fwy, Iran <br><b>Consumer Enquiries: <a href='mailto:info@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>info@qfruiti.com</span></a><br>Business Enquiries: <a href='mailto:business@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>business@qfruiti.com</span></a></b>",
 				"mediaEnquiriesLabel": "<span class=lightgreenBackground>MEDIA INQUIRIES  </span>",
 				"mediaEnquiriesDetails": "For media/press inquiries  please write to <b>  <a href='mailto:media@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>media@qfruiti.com</span></a></b>"
 			}
