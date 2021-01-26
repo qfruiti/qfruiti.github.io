@@ -61,8 +61,8 @@
 				"actionType": "link"
 			}],
 			"products": [{
-				"productTitle": "<h3 class='yellow-text'>ZESPRI<span class='number'>™</span> SUNGOLD<span class='number'>™</span></h3>",
-				"tagline": "<p>Golden and gloriously sweet.</p>",
+				"productTitle": "<h3 class='yellow-text'>QFRUITI<span class='number'>™</span> APPLE</h3>",
+				"tagline": "<p>Tasty and So yummy.</p>",
 				"images": {
 					"image_video_title": "zespri-sungold-product",
 					"imageUrl": "./images/product/homepage-product-sungold-min.png",
@@ -71,8 +71,8 @@
 				},
 				"productUrl": "/en-IN/product"
 			}, {
-				"productTitle": "<h3 class='green-text'>ZESPRI<span class='number'>™</span> GREEN</h3>",
-				"tagline": "<p>Green means go for zest and zing.</p>",
+				"productTitle": "<h3 class='green-text'>QFRUITI<span class='number'>™</span> KIWI</h3>",
+				"tagline": "<p>Green high quality Kiwi .</p>",
 				"images": {
 					"image_video_title": "zespri-green-product",
 					"imageUrl": "./images/product/homepage-product-green-min.png",
@@ -81,8 +81,8 @@
 				},
 				"productUrl": "/en-IN/product"
 			}, {
-				"productTitle": "<h3 class='pink-text'>ZESPRI<span class='number'>™</span>  ORGANIC</h3>",
-				"tagline": "<p>Available in Green and SunGold™.</p>",
+				"productTitle": "<h3 class='pink-text'>QFRUITI<span class='number'>™</span>  ORANGE</h3>",
+				"tagline": "<p>Juicy organic oranges.</p>",
 				"images": {
 					"image_video_title": "zespri-organic-product",
 					"imageUrl": "./images/product/homepage-product-organic-min.png",
@@ -96,7 +96,7 @@
 		"YouCanSection": {
 			"sectionTitle": "YouCanSection",
 			"sectionCssClass": "SectionClass",
-			"visible": true,
+			"visible": false,
 			"slides": [{
 				"title": "<button class='ways-to-eat-button-green'>SCOOP IT</button>",
 				"labelCssClass": "labelCssClass",
@@ -173,7 +173,7 @@
 		"RecipeSection": {
 			"sectionTitle": "ADD A BIT OF <span class=lightGreenText>ZING</span>",
 			"sectionCssClass": "SectionClass",
-			"visible": true,
+			"visible": false,
 			"links": [{
 				"actionText": "<button class='darkgreen-bg'>GET COOKING</button>",
 				"actionCssClass": "cssClass",
@@ -305,7 +305,7 @@
 							"imageAltText": "Zespri_Icons-2_10.png",
 							"mediaCssClass": "instagramcssclass"
 						},
-						"redirectUrl": "https://www.instagram.com/zesprikiwifruitindia/"
+						"redirectUrl": "https://www.instagram.com/qfruiti/"
 					}
 				}, {
 					"Twitter": {
