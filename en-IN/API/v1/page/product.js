@@ -364,7 +364,7 @@
 		"BlogSection": {
 			"sectionTitle": "BlogSection",
 			"sectionCssClass": "SectionClass",
-			"visible": true,
+			"visible": false,
 			"blogs": [{
 				"blogTitle": "ALL ABOUT <span class=lightGreenText>KIWI</span> SEEDS",
 				"slug": "all-about-kiwi-seeds",
@@ -415,7 +415,7 @@
 		"SelectingSection": {
 			"sectionTitle": "SelectingSection",
 			"sectionCssClass": "SectionClass",
-			"visible": true,
+			"visible": false,
 			"slides": [{
 				"title": "<button class=\"ways-to-eat-button-red\">HOW TO RIPEN</button>\n",
 				"labelCssClass": "labelCssClass",
@@ -467,7 +467,7 @@
 		"RecipeSection": {
 			"sectionTitle": "ADD A BIT OF <span class=lightGreenText>ZING</span>",
 			"sectionCssClass": "SectionClass",
-			"visible": true,
+			"visible": false,
 			"links": [{
 				"actionText": "<button class='darkgreen-bg'>GET COOKING</button>",
 				"actionCssClass": "cssClass",
@@ -618,7 +618,7 @@
 							"imageAltText": "Zespri_Icons-2_10.png",
 							"mediaCssClass": "instagramcssclass"
 						},
-						"redirectUrl": "https://www.instagram.com/zesprikiwifruitindia/"
+						"redirectUrl": "https://www.instagram.com/qfruiti/"
 					}
 				}, {
 					"Twitter": {
