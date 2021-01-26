@@ -18,6 +18,16 @@
 	},
 	"gaScript": "GA Scripts to be added",
 	"primaryMenu": [{
+		"title": "HOME",
+		"links": [{
+			"actionText": "homepage",
+			"actionCssClass": "menuClass",
+			"isExternalUrl": "No",
+			"actionLinkUrl": "/en-IN/",
+			"actionTargetType": "_self",
+			"actionType": "link"
+		}]
+	}, {
 		"title": "OUR FRUITS",
 		"links": [{
 			"actionText": "OUR KIWIS",
