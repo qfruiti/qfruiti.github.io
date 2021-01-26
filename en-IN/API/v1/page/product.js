@@ -70,7 +70,7 @@
 			}, {
 				"productTitle": "<h3 class='pink-text'>QFRUITI<span class='number'>™</span> ORGANGE</h3>",
 				"listingTitle": "<h3 class='pink-text'> QFRUITI<span class='number'>™</span> ORANGE</h3>",
-				"tagline": "<p></p>",
+				"tagline": "<p>High Quality Fruits</p>",
 				"longText1": "organic Juicy oranges ready to peeled off.",
 				"images": {
 					"image_video_title": "zespri-organic-product",
