@@ -18,7 +18,7 @@
 	},
 	"gaScript": "GA Scripts to be added",
 	"primaryMenu": [{
-		"title": "OUR KIWIS",
+		"title": "OUR FRUITS",
 		"links": [{
 			"actionText": "OUR KIWIS",
 			"actionCssClass": "menuClass",
