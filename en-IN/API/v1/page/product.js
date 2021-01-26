@@ -15,8 +15,8 @@
 			"images": [{
 				"image_video_title": "product-page-masthead",
 				"imageUrl": "./images/product/product-masthead-new.jpg",
-				"imageAltText": "_0000_product-masthead-m.jpg",
-				"imageMobileUrl": "./images/product/_0000_product-masthead-m.jpg"
+				"imageAltText": "kk.jpg",
+				"imageMobileUrl": "./images/product/kk.jpg"
 			}]
 		}
 	}, {
