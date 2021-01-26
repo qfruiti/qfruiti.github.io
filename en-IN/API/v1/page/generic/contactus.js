@@ -1,5 +1,5 @@
 {
-	"pageTitle": "Contact Zespri India",
+	"pageTitle": "Contact Qfruiti India",
 	"pageIdentifier": "/contactus",
 	"seo": {
 		"metaTitle": "Contact Qfruiti",
