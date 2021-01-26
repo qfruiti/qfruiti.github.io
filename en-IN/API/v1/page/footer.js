@@ -25,7 +25,7 @@
 	}],
 	"copyrightText": {
 		"title": "Copyright",
-		"labelText": "©Zespri Group Limited, all rights reserved"
+		"labelText": "©Qfruiti Group Limited, all rights reserved"
 	},
 	"regions": [{
 		"regionTitle": "Europe",
