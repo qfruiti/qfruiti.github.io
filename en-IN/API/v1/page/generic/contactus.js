@@ -2,8 +2,8 @@
 	"pageTitle": "Contact Zespri India",
 	"pageIdentifier": "/contactus",
 	"seo": {
-		"metaTitle": "Contact Zespri India",
-		"metaDescription": "We love hearing from you. Fill out the contact form below for all Zespri India inquiries. From here, you can also click the link for countries outside India. ",
+		"metaTitle": "Contact Qfruiti",
+		"metaDescription": "We love hearing from you. Fill out the contact form below for all Qfruiti inquiries. ",
 		"metaKeywords": "keyword1, keyword2, keyword3",
 		"metaTags": "tag1, tag2, tag3"
 	},
@@ -32,9 +32,9 @@
 				},
 				"submitMessage": "Thank You!",
 				"mailLabel": "<span class=lightgreenBackground>REACH US BY MAIL</span>",
-				"mailDetails": "<span class=greenText><b>Zespri International (India) Pvt. Ltd.</b></span><br>5-109, WeWork, 4th Floor, Building 4, North Wing <br>NESCO IT Park, Western Express Highway, Goregaon (East)Mumbai â€“ 4000 063, Maharashtra, India<br><b>Consumer Enquiries: <a href='mailto:akshay.pai@zespri.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>akshay.pai@zespri.com</span></a><br>Business Enquiries: <a href='mailto:mohit.jain@zespri.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>mohit.jain@zespri.com</span></a></b>",
+				"mailDetails": "<span class=greenText><b>Qfruiti International (Iran) Pvt. Ltd.</b></span><br>5-109, WeWork, 4th Floor, Building 4, North Wing <br>NESCO IT Park, Western Express Highway, Goregaon (East)Mumbai â€“ 4000 063, Maharashtra, India<br><b>Consumer Enquiries: <a href='mailto:info@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>info@qfruiti.com</span></a><br>Business Enquiries: <a href='mailto:business@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>business@qfruiti.com</span></a></b>",
 				"mediaEnquiriesLabel": "<span class=lightgreenBackground>MEDIA INQUIRIES  </span>",
-				"mediaEnquiriesDetails": "For media/press inquiries  please write to <b>  <a href='mailto:akshay.pai@zespri.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>akshay.pai@zespri.com</span></a></b>"
+				"mediaEnquiriesDetails": "For media/press inquiries  please write to <b>  <a href='mailto:media@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>media@qfruiti.com</span></a></b>"
 			}
 		}
 	}, {
@@ -62,7 +62,7 @@
 							"imageAltText": "Zespri_Icons-2_10.png",
 							"mediaCssClass": "instagramcssclass"
 						},
-						"redirectUrl": "https://www.instagram.com/zesprikiwifruitindia/"
+						"redirectUrl": "https://www.instagram.com/qfruiti/"
 					}
 				}, {
 					"Twitter": {
