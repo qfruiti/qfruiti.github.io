@@ -3,7 +3,7 @@
 	"pageIdentifier": "/product",
 	"seo": {
 		"metaTitle": "Kiwifruit",
-		"metaDescription": "Learn the basics of Zespri Kiwifruit. From picking the perfect kiwi, to learning the best and easiest way to eat kiwifruit. Dive deep into what makes kiwifruit the perfect superfood.",
+		"metaDescription": "Learn the basics of Qfruiti. From picking the perfect kiwi, to learning the best and easiest way to eat kiwifruit. Dive deep into what makes kiwifruit the perfect superfood.",
 		"metaKeywords": "keyword1, keyword2, keyword3",
 		"metaTags": "tag1, tag2, tag3"
 	},
@@ -46,7 +46,7 @@
 							"recipeTitle": "Kiwi Colada",
 							"slug": "kiwi-colada",
 							"seo": {
-								"metaTitle": "SunGold Kiwi colada - Zespri Kiwifruit India"
+								"metaTitle": "SunGold Kiwi colada - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "Kiwicolada-min",
@@ -71,7 +71,7 @@
 							"recipeTitle": "Kiwifruit Jalebi",
 							"slug": "kiwifruit-jalebi",
 							"seo": {
-								"metaTitle": "Kiwifruit Jalebi - Zespri Kiwifruit India"
+								"metaTitle": "Kiwifruit Jalebi - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "kiwifruit-jalebi-min",
@@ -94,7 +94,7 @@
 							"recipeTitle": "Sweet Kiwi Samosa",
 							"slug": "sweet-kiwi-samosa",
 							"seo": {
-								"metaTitle": "Sweet Kiwi Samosa - Zespri Kiwifruit India"
+								"metaTitle": "Sweet Kiwi Samosa - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "sweet-kiwi-samosa-min",
@@ -142,7 +142,7 @@
 							"recipeTitle": "Kiwifruit Papdi Chaat",
 							"slug": "kiwifruit-papdi-chaat",
 							"seo": {
-								"metaTitle": "Kiwifruit Papdi Chaat - Zespri Kiwifruit India"
+								"metaTitle": "Kiwifruit Papdi Chaat - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "kiwifruit-papdi-chaat-min",
@@ -167,7 +167,7 @@
 							"recipeTitle": "Kiwifruit Chuski",
 							"slug": "kiwifruit-chuski",
 							"seo": {
-								"metaTitle": "Kiwifruit Chuski - Zespri Kiwifruit India"
+								"metaTitle": "Kiwifruit Chuski - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "Kiwifruit-Chuski-min",
@@ -191,7 +191,7 @@
 							"recipeTitle": "Kiwifruit & Paneer on the Skewer",
 							"slug": "kiwifruit-and-paneer-on-the-skewer",
 							"seo": {
-								"metaTitle": "Kiwifruit & Paneer on the Skewer - Zespri Kiwifruit India"
+								"metaTitle": "Kiwifruit & Paneer on the Skewer - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "kiwifruit-and-paneer-on-the-skewer-thumbnail",
@@ -279,7 +279,7 @@
 							"recipeTitle": "Kiwifruit Papdi Chaat",
 							"slug": "kiwifruit-papdi-chaat",
 							"seo": {
-								"metaTitle": "Kiwifruit Papdi Chaat - Zespri Kiwifruit India"
+								"metaTitle": "Kiwifruit Papdi Chaat - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "kiwifruit-papdi-chaat-min",
@@ -304,7 +304,7 @@
 							"recipeTitle": "Kiwifruit Chuski",
 							"slug": "kiwifruit-chuski",
 							"seo": {
-								"metaTitle": "Kiwifruit Chuski - Zespri Kiwifruit India"
+								"metaTitle": "Kiwifruit Chuski - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "Kiwifruit-Chuski-min",
@@ -328,7 +328,7 @@
 							"recipeTitle": "Kiwifruit & Paneer on the Skewer",
 							"slug": "kiwifruit-and-paneer-on-the-skewer",
 							"seo": {
-								"metaTitle": "Kiwifruit & Paneer on the Skewer - Zespri Kiwifruit India"
+								"metaTitle": "Kiwifruit & Paneer on the Skewer - Qfruiti India"
 							},
 							"recipeThumbnailImage": {
 								"image_video_title": "kiwifruit-and-paneer-on-the-skewer-thumbnail",
