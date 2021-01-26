@@ -24,10 +24,10 @@
 			"sectionTitle": "Product Detail Section",
 			"visible": true,
 			"products": [{
-				"productTitle": "<h3 class='yellow-text'>ZESPRI<span class='number'>™</span> SUNGOLD<span class='number'>™</span></h3>",
-				"listingTitle": "<h3 class='yellow-text'>ZESPRI<span class='number'>™</span>  SUNGOLD<span class='number'>™</span></h3>",
-				"tagline": "<p>Golden and gloriously sweet.</p>",
-				"longText1": "Provides 100% of your daily vitamin C need and is deliciously sweet. <br>*Based on 1 medium sized kiwifruit and the required Vitamin C Intake for adult in India.",
+				"productTitle": "<h3 class='yellow-text'>QFRUITI<span class='number'>™</span> APPLE</h3>",
+				"listingTitle": "<h3 class='yellow-text'>QFRUITI<span class='number'>™</span>  APPLE</h3>",
+				"tagline": "<p>Tasty and So Yummy.</p>",
+				"longText1": "Provides all kind of VITAMINS.",
 				"images": {
 					"image_video_title": "zespri-sungold-product",
 					"imageUrl": "./images/product/homepage-product-sungold-min.png",
@@ -38,80 +38,6 @@
 				"closeText": "Close",
 				"closeCssClass": "closeCss",
 				"productMoreInfo": [{
-					"sungoldrecipes": {
-						"title": "SunGold Recipes",
-						"callback": "sungoldRecipe",
-						"cssIcon": "SungoldRecipes",
-						"recipe": [{
-							"recipeTitle": "Kiwi Colada",
-							"slug": "kiwi-colada",
-							"seo": {
-								"metaTitle": "SunGold Kiwi colada - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "Kiwicolada-min",
-								"imageUrl": "./images/recipe/thumbnail/Kiwicolada-min.jpg",
-								"imageAltText": "Kiwicolada-min.jpg"
-							},
-							"images": {
-								"image_video_title": "Kiwicolada-masthead",
-								"imageUrl": "./images/recipe/masthead/Kiwicolada-DMasthead.jpg",
-								"imageAltText": "kiwicolada-MMasthead.jpg",
-								"imageMobileUrl": "./images/recipe/masthead/kiwicolada-MMasthead.jpg"
-							},
-							"recipeLikes": 0,
-							"likesCssClass": "likesClass",
-							"durationText": "15 mins",
-							"durationCssClass": "durationclass",
-							"servesText": "Serves 4",
-							"servesCssClass": "servesclass",
-							"recipeKeywords": "Breakfast",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}, {
-							"recipeTitle": "Kiwifruit Jalebi",
-							"slug": "kiwifruit-jalebi",
-							"seo": {
-								"metaTitle": "Kiwifruit Jalebi - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "kiwifruit-jalebi-min",
-								"imageUrl": "./images/recipe/thumbnail/kiwifruit-jalebi-min.jpg",
-								"imageAltText": "kiwifruit-jalebi-min.jpg"
-							},
-							"images": {
-								"image_video_title": "kiwifruit-jalebi-masthead",
-								"imageUrl": "./images/recipe/masthead/kiwifruit-jalebi-DMasthead.jpg",
-								"imageAltText": "kiwifruit-jalebi-MMasthead.jpg",
-								"imageMobileUrl": "./images/recipe/masthead/kiwifruit-jalebi-MMasthead.jpg"
-							},
-							"recipeLikes": 0,
-							"durationText": "30 mins",
-							"servesText": "Serves 2",
-							"servesCssClass": "servesclass",
-							"recipeKeywords": "Smoothie",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}, {
-							"recipeTitle": "Sweet Kiwi Samosa",
-							"slug": "sweet-kiwi-samosa",
-							"seo": {
-								"metaTitle": "Sweet Kiwi Samosa - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "sweet-kiwi-samosa-min",
-								"imageUrl": "./images/recipe/thumbnail/sweet-kiwi-samosa-min.jpg",
-								"imageAltText": "sweet-kiwi-samosa-min.jpg"
-							},
-							"recipeLikes": 0,
-							"likesCssClass": "likesClass",
-							"durationText": "25 mins",
-							"durationCssClass": "durationclass",
-							"servesText": "Serves 2",
-							"servesCssClass": "servesclass",
-							"recipeKeywords": "Appetizer, Salad",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}]
-					}
-				}, {
 					"NutritionalFacts": {
 						"title": "Nutritional Facts",
 						"callback": "sungoldNutritionFacts",
@@ -120,9 +46,9 @@
 					}
 				}]
 			}, {
-				"productTitle": "<h3 class='green-text'>ZESPRI<span class='number'>™</span> GREEN</h3>",
-				"listingTitle": "<h3 class='green-text'>ZESPRI<span class='number'>™</span> GREEN</h3>",
-				"tagline": "<p>Green means go for zest and zing.</p>",
+				"productTitle": "<h3 class='green-text'>QFRUITI<span class='number'>™</span> KIWI</h3>",
+				"listingTitle": "<h3 class='green-text'>QFRUITI<span class='number'>™</span> KIWI</h3>",
+				"tagline": "<p>Green high quality Kiwi.</p>",
 				"longText1": " Full of flavour but with palate cleansing acidity, our kiwifruit contains fibre and the enzyme actinidin for digestion. ",
 				"images": {
 					"image_video_title": "zespri-green-product",
@@ -134,86 +60,6 @@
 				"closeText": "Close",
 				"closeCssClass": "closeCss",
 				"productMoreInfo": [{
-					"greenrecipes": {
-						"title": "Green Recipes ",
-						"callback": "greenRecipe",
-						"cssIcon": "GreenRecipes",
-						"recipe": [{
-							"recipeTitle": "Kiwifruit Papdi Chaat",
-							"slug": "kiwifruit-papdi-chaat",
-							"seo": {
-								"metaTitle": "Kiwifruit Papdi Chaat - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "kiwifruit-papdi-chaat-min",
-								"imageUrl": "./images/recipe/thumbnail/kiwifruit-papdi-chaat-min.jpg",
-								"imageAltText": "kiwifruit-papdi-chaat-min.jpg"
-							},
-							"images": {
-								"image_video_title": "kiwifruit-papdi-chaat-masthead",
-								"imageUrl": "./images/recipe/masthead/kiwifruit-papdi-chaat-DMasthead.jpg",
-								"imageAltText": "kiwifruit-papdi-chaat-MMasthead.jpg",
-								"imageMobileUrl": "./images/recipe/masthead/kiwifruit-papdi-chaat-MMasthead.jpg"
-							},
-							"recipeLikes": 0,
-							"likesCssClass": "likesClass",
-							"durationText": "15 mins",
-							"durationCssClass": "durationclass",
-							"servesText": "Serves 28",
-							"servesCssClass": "servesclass",
-							"recipeKeywords": "Green",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}, {
-							"recipeTitle": "Kiwifruit Chuski",
-							"slug": "kiwifruit-chuski",
-							"seo": {
-								"metaTitle": "Kiwifruit Chuski - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "Kiwifruit-Chuski-min",
-								"imageUrl": "./images/recipe/thumbnail/Kiwifruit-Chuski-min.jpg",
-								"imageAltText": "Kiwifruit-Chuski-min.jpg"
-							},
-							"images": {
-								"image_video_title": "Kiwifruit-Chuski-masthead",
-								"imageUrl": "./images/recipe/masthead/Kiwifruit-Chuski-DMasthead.jpg",
-								"imageAltText": "kiwifruit-chuski-MMasthead.jpg",
-								"imageMobileUrl": "./images/recipe/masthead/kiwifruit-chuski-MMasthead.jpg"
-							},
-							"recipeLikes": 0,
-							"likesCssClass": "likesClass",
-							"durationText": "25 mins",
-							"durationCssClass": "durationclass",
-							"servesText": "Serves 8",
-							"recipeKeywords": "Cocktails ",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}, {
-							"recipeTitle": "Kiwifruit & Paneer on the Skewer",
-							"slug": "kiwifruit-and-paneer-on-the-skewer",
-							"seo": {
-								"metaTitle": "Kiwifruit & Paneer on the Skewer - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "kiwifruit-and-paneer-on-the-skewer-thumbnail",
-								"imageUrl": "./images/recipe/thumbnail/Kiwifruit-and-Paneer-on-the-skewer-min.jpg",
-								"imageAltText": "Kiwifruit-and-Paneer-on-the-skewer-min.jpg"
-							},
-							"images": {
-								"image_video_title": "kiwifruit-and-paneer-on-the-skewer-masthead",
-								"imageUrl": "./images/recipe/masthead/Kiwifruit-and-Paneer-on-the-skewer-DMasthead.jpg",
-								"imageAltText": "kiwifruit-and-paneer-on-the-skewer-MMasthead.jpg",
-								"imageMobileUrl": "./images/recipe/masthead/kiwifruit-and-paneer-on-the-skewer-MMasthead.jpg"
-							},
-							"recipeLikes": 0,
-							"likesCssClass": "likesClass",
-							"durationText": "25 mins",
-							"durationCssClass": "durationclass",
-							"servesText": "Serves 10",
-							"servesCssClass": "servesclass",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}]
-					}
-				}, {
 					"nutritionalFacts": {
 						"title": "Nutritional Facts",
 						"callback": "greenNutritionFacts",
@@ -222,10 +68,10 @@
 					}
 				}]
 			}, {
-				"productTitle": "<h3 class='pink-text'>ZESPRI<span class='number'>™</span> ORGANIC SUNGOLD<span class='number'>™</span></h3>",
-				"listingTitle": "<h3 class='pink-text'> ZESPRI<span class='number'>™</span> ORGANIC SUNGOLD<span class='number'>™</span></h3>",
+				"productTitle": "<h3 class='pink-text'>QFRUITI<span class='number'>™</span> ORGANGE</h3>",
+				"listingTitle": "<h3 class='pink-text'> QFRUITI<span class='number'>™</span> ORANGE</h3>",
 				"tagline": "<p></p>",
-				"longText1": "Our organic kiwifruit conform to the strict New Zealand organic quality and safety guidelines and then we take it a step further.",
+				"longText1": "organic Juicy oranges ready to peeled off.",
 				"images": {
 					"image_video_title": "zespri-organic-product",
 					"imageUrl": "./images/product/610x540-gold.png",
@@ -254,108 +100,6 @@
 						"title": "Where to buy hide",
 						"callback": "",
 						"cssIcon": ""
-					}
-				}]
-			},{
-				"productTitle": "<h3 class='green-text'>ZESPRI<span class='number'>™</span> ORGANIC GREEN</h3>",
-				"listingTitle": "<h3 class='green-text'>ZESPRI<span class='number'>™</span> ORGANIC GREEN</h3>",
-				"tagline": "<p></p>",
-				"longText1": "Our organic kiwifruit conform to the strict New Zealand organic quality and safety guidelines and then we take it a step further.",
-				"images": {
-					"image_video_title": "zespri-green-product",
-					"imageUrl": "./images/product/610x540-green.png",
-					"imageAltText": "homepage-product-green-min.png",
-					"mediaCssClass": "zespri-green-product-tilt"
-				},
-				"moreInfoClass": "moreinfoCss",
-				"closeText": "Close",
-				"closeCssClass": "closeCss",
-				"productMoreInfo": [{
-					"greenrecipes": {
-						"title": "Green Recipes hide ",
-						"callback": "greenRecipe",
-						"cssIcon": "GreenRecipes",
-						"recipe": [{
-							"recipeTitle": "Kiwifruit Papdi Chaat",
-							"slug": "kiwifruit-papdi-chaat",
-							"seo": {
-								"metaTitle": "Kiwifruit Papdi Chaat - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "kiwifruit-papdi-chaat-min",
-								"imageUrl": "./images/recipe/thumbnail/kiwifruit-papdi-chaat-min.jpg",
-								"imageAltText": "kiwifruit-papdi-chaat-min.jpg"
-							},
-							"images": {
-								"image_video_title": "kiwifruit-papdi-chaat-masthead",
-								"imageUrl": "./images/recipe/masthead/kiwifruit-papdi-chaat-DMasthead.jpg",
-								"imageAltText": "kiwifruit-papdi-chaat-MMasthead.jpg",
-								"imageMobileUrl": "./images/recipe/masthead/kiwifruit-papdi-chaat-MMasthead.jpg"
-							},
-							"recipeLikes": 0,
-							"likesCssClass": "likesClass",
-							"durationText": "15 mins",
-							"durationCssClass": "durationclass",
-							"servesText": "Serves 28",
-							"servesCssClass": "servesclass",
-							"recipeKeywords": "Green",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}, {
-							"recipeTitle": "Kiwifruit Chuski",
-							"slug": "kiwifruit-chuski",
-							"seo": {
-								"metaTitle": "Kiwifruit Chuski - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "Kiwifruit-Chuski-min",
-								"imageUrl": "./images/recipe/thumbnail/Kiwifruit-Chuski-min.jpg",
-								"imageAltText": "Kiwifruit-Chuski-min.jpg"
-							},
-							"images": {
-								"image_video_title": "Kiwifruit-Chuski-masthead",
-								"imageUrl": "./images/recipe/masthead/Kiwifruit-Chuski-DMasthead.jpg",
-								"imageAltText": "kiwifruit-chuski-MMasthead.jpg",
-								"imageMobileUrl": "./images/recipe/masthead/kiwifruit-chuski-MMasthead.jpg"
-							},
-							"recipeLikes": 0,
-							"likesCssClass": "likesClass",
-							"durationText": "25 mins",
-							"durationCssClass": "durationclass",
-							"servesText": "Serves 8",
-							"recipeKeywords": "Cocktails ",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}, {
-							"recipeTitle": "Kiwifruit & Paneer on the Skewer",
-							"slug": "kiwifruit-and-paneer-on-the-skewer",
-							"seo": {
-								"metaTitle": "Kiwifruit & Paneer on the Skewer - Qfruiti India"
-							},
-							"recipeThumbnailImage": {
-								"image_video_title": "kiwifruit-and-paneer-on-the-skewer-thumbnail",
-								"imageUrl": "./images/recipe/thumbnail/Kiwifruit-and-Paneer-on-the-skewer-min.jpg",
-								"imageAltText": "Kiwifruit-and-Paneer-on-the-skewer-min.jpg"
-							},
-							"images": {
-								"image_video_title": "kiwifruit-and-paneer-on-the-skewer-masthead",
-								"imageUrl": "./images/recipe/masthead/Kiwifruit-and-Paneer-on-the-skewer-DMasthead.jpg",
-								"imageAltText": "kiwifruit-and-paneer-on-the-skewer-MMasthead.jpg",
-								"imageMobileUrl": "./images/recipe/masthead/kiwifruit-and-paneer-on-the-skewer-MMasthead.jpg"
-							},
-							"recipeLikes": 0,
-							"likesCssClass": "likesClass",
-							"durationText": "25 mins",
-							"durationCssClass": "durationclass",
-							"servesText": "Serves 10",
-							"servesCssClass": "servesclass",
-							"recipeUrl": "/en-IN/recipedetail/"
-						}]
-					}
-				}, {
-					"nutritionalFacts": {
-						"title": "Nutritional Facts",
-						"callback": "product4NutritionFacts",
-						"cssIcon": "NutritionalFacts",
-						"facts": "<div class='fact-tbl'><h4>THERE ARE LOADS OF GREAT THINGS GOING ON</h4><p class='tbl-note'>Serving Size: 2 MEDIUM KIWIFRUIT (200G) <br/> SERVING PER CONTAINER VARY</p><table class='second-tbl'><tbody> <tr> <th>Nutrient</th> <th>Units/100g Edible Flesh</th> <th>Zespri™ Green*</th> </tr><tr> <td>Energy</td><td>kcal</td><td>61</td></tr><tr> <td>Energy (NIP)</td><td>kj</td><td>250</td></tr><tr> <td>Total Fat</td><td>g</td><td>0.7</td></tr><tr> <td>Cholesterol</td><td>mg</td><td>0</td></tr><tr> <td>Carbohydrate</td><td>g</td><td>9.1</td></tr><tr> <td>Dietary Fibre</td><td>g</td><td>3</td></tr><tr> <td>Sugars, Total</td><td>g</td><td>8.8</td></tr><tr> <td>Protein</td><td>g</td><td>1.2</td></tr><tr><th></th><th style='text-align:center'>MINERALS</th><th></th></tr><tr> <td>Sodium</td><td>mg</td><td>2.3</td></tr><tr> <td>Potassium</td><td>mg</td><td>301</td></tr><tr> <td>Iron</td><td>mg</td><td>0.2</td></tr><tr> <td>Calcium</td><td>mg</td><td>27</td></tr><tr> <th></th> <th style='text-align:center'>VITAMINS</th> <th></th> </tr><tr> <td>Vitamin A</td><td>μg</td><td>9</td></tr><tr> <td>Vitamin C</td><td>mg</td><td>85.1</td></tr><tr> <td>Vitamin E</td><td>mg</td><td>0.86</td></tr><tr> <td>Folate (vitamin B9)</td><td>μg</td><td>38.2</td></tr><tr> <th></th><th style='text-align:center'>OTHER</th> <th></th> </tr><tr> <td>Carotene, Beta</td><td>μg</td><td>54</td></tr><tr> <td>Lutein, Zeaxanthin</td><td>μg</td><td>138</td></tr></tbody></table><p class='tbl-note'>*Lesperance L. et al. Nutritional assessment of ZESPRI GREEN <br>Kiwifruit ('Hayward') and ZESPRI GOLD Kiwifruit (Hort6A). Palmerson<br>North: Plant & Food Research; 2010 42, SPTS No. 3100<br/>There are a number of equations to calculate energy as noted by the European Commission (2014) and USDA (2009).</p></div>"
 					}
 				}]
 			}]
