@@ -30,9 +30,9 @@
 	}, {
 		"title": "CONTACT US",
 		"links": [{
-			"actionText": "NUTRITION & HEALTH",
+			"actionText": "CONTACT US",
 			"isExternalUrl": "No",
-			"actionLinkUrl": "/en-IN/nutrition",
+			"actionLinkUrl": "/en-IN/contactus",
 			"actionTargetType": "_self",
 			"actionType": "link"
 		}]
