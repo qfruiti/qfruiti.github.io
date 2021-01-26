@@ -2,7 +2,7 @@
 	"title": "Header",
 	"logo": {
 		"title": "Logo",
-		"description": "zespri-logo",
+		"description": "qfruiti-logo",
 		"file": {
 			"url": "./images/header/logo.png",
 			"details": {
@@ -28,41 +28,11 @@
 			"actionType": "link"
 		}]
 	}, {
-		"title": "NUTRITION AND HEALTH",
+		"title": "CONTACT US",
 		"links": [{
 			"actionText": "NUTRITION & HEALTH",
 			"isExternalUrl": "No",
 			"actionLinkUrl": "/en-IN/nutrition",
-			"actionTargetType": "_self",
-			"actionType": "link"
-		}]
-	}, {
-		"title": "RECIPES",
-		"links": [{
-			"actionText": "RECIPES",
-			"actionCssClass": "menuClass",
-			"isExternalUrl": "No",
-			"actionLinkUrl": "/en-IN/recipes",
-			"actionTargetType": "_self",
-			"actionType": "link"
-		}]
-	}, {
-		"title": "THE ZESPRI BLOG ",
-		"links": [{
-			"actionText": "ALL ABOUT KIWIS",
-			"actionCssClass": "menuClass",
-			"isExternalUrl": "No",
-			"actionLinkUrl": "/en-IN/blog",
-			"actionTargetType": "_self",
-			"actionType": "link"
-		}]
-	}, {
-		"title": "ZESPRI DIFFERENCE",
-		"links": [{
-			"actionText": "ZESPRI DIFFERENCE",
-			"actionCssClass": "menuClass",
-			"isExternalUrl": "No",
-			"actionLinkUrl": "/en-IN/zespri-system",
 			"actionTargetType": "_self",
 			"actionType": "link"
 		}]
