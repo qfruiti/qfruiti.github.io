@@ -288,16 +288,6 @@
 			"followUs": {
 				"followustitle": "FOLLOW US, WE DON'T BITE.",
 				"socialMediaTokens": [{
-					"Facebook": {
-						"images": {
-							"image_video_title": "Facebook Image",
-							"imageUrl": "./images/footer/FB_ICON.png",
-							"imageAltText": "FB ICON.png",
-							"mediaCssClass": "facebookclass"
-						},
-						"redirectUrl": "https://www.facebook.com/ZespriIndia/?fref=ts"
-					}
-				}, {
 					"Instagram": {
 						"images": {
 							"image_video_title": "Instagram Image",
@@ -306,16 +296,6 @@
 							"mediaCssClass": "instagramcssclass"
 						},
 						"redirectUrl": "https://www.instagram.com/qfruiti/"
-					}
-				}, {
-					"Twitter": {
-						"images": {
-							"image_video_title": "Twitter Image",
-							"imageUrl": "./images/footer/TWITTER_ICON.png",
-							"imageAltText": "_D_Zespri-Way_03.png",
-							"mediaCssClass": "twittercssclass"
-						},
-						"redirectUrl": "https://twitter.com/zespriindia"
 					}
 				},  {
 					"YouTube": {
