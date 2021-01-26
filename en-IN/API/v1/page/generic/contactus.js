@@ -32,7 +32,7 @@
 				},
 				"submitMessage": "Thank You!",
 				"mailLabel": "<span class=lightgreenBackground>REACH US BY MAIL</span>",
-				"mailDetails": "<span class=greenText><b>Qfruiti International (Iran) Pvt. Ltd.</b></span><br>5-109, WeWork, 4th Floor, Building 4, North Wing <br>NESCO IT Park, Western Express Highway, Goregaon (East)Mumbai â€“ 4000 063, Maharashtra, India<br><b>Consumer Enquiries: <a href='mailto:info@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>info@qfruiti.com</span></a><br>Business Enquiries: <a href='mailto:business@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>business@qfruiti.com</span></a></b>",
+				"mailDetails": "<span class=greenText><b>Qfruiti International (Iran) Pvt. Ltd.</b></span><br>Mazandaran Province, Katalom, Ramsar Coastal Bypass Fwy, Iran <b>Consumer Enquiries: <a href='mailto:info@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>info@qfruiti.com</span></a><br>Business Enquiries: <a href='mailto:business@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>business@qfruiti.com</span></a></b>",
 				"mediaEnquiriesLabel": "<span class=lightgreenBackground>MEDIA INQUIRIES  </span>",
 				"mediaEnquiriesDetails": "For media/press inquiries  please write to <b>  <a href='mailto:media@qfruiti.com?Subject=Contact Us' target='_top'><span class='lightGreenText'>media@qfruiti.com</span></a></b>"
 			}
